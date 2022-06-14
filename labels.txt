@@ -1,0 +1,2 @@
+0 Aplus
+1 Aminus
